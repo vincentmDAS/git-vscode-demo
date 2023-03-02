@@ -1,4 +1,5 @@
 # Learning Git in VSCode
 
 - second commit
-- anotehr line
+- another line
+- update
